@@ -19,5 +19,5 @@ python -m retrain \
 
 Run the detection code:
 ```
-python -m detect_face.py
+python detect_face.py
 ```
