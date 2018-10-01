@@ -15,6 +15,7 @@ python -m retrain \
 --architecture=inception_v3 \
 --image_dir=dataset/images
 ```
+Note: If error occurs while training, try removing -m
 
 
 Run the detection code:
